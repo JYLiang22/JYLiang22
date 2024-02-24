@@ -1,4 +1,15 @@
-### Hi there 👋
+# 你好！欢迎访问我的主页 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=radical)](https://github.com/JYLiang22/github-readme-stats)
+
+# 关于我
+
+- 💻 计算机领域从业人员
+- 🏀 喜欢篮球
+- 💪 懂点健身，热衷于功能性训练
+- 📫 联系我 liangjyno1@gmail.com
+
 
 <!--
 **JYLiang22/JYLiang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
