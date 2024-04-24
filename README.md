@@ -1,7 +1,7 @@
 # 你好！欢迎访问我的主页 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&hide=stars,prs,issues,contribs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=radical)](https://github.com/JYLiang22/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&hide=stars,prs,issues,contribs&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 # 关于我
 
