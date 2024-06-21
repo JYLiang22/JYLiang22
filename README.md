@@ -7,7 +7,7 @@
 # 关于我
 
 - 🏗🤝💻 CE&CS
-- 📫 联系我 liangjyno1@gmail.com
+- 📫 联系我 [JYLiang22](liangjyno1@gmail.com)
 
 
 # 我的仓库
