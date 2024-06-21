@@ -4,13 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 
-# 关于我
+# 关于我 🔍
 
 - 🏗🤝💻 CE&CS
 - 📫 联系我 [JYLiang22](liangjyno1@gmail.com)
 
 
-# 我的仓库
+# 我的仓库 📚
 
 - [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：计算机基础知识笔记
 - [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：使用C++11实现的STL数据结构
@@ -22,7 +22,7 @@
 - [Secret3]() 🔞㊙🈲⛔
 
 
-# 计划仓库
+# 计划仓库 📘
 
 - 🔜 MIT6.S081
 - 🤜 MIT6.824
