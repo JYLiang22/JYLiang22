@@ -17,9 +17,7 @@
 - [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：WebServer中加入协程库
 - [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：github主页，如你所见
 - [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：个人主页，尚未完善
-- [Secret1]() 🔞㊙🈲⛔
-- [Secret2]() 🔞㊙🈲⛔
-- [Secret3]() 🔞㊙🈲⛔
+- [Secrets]() 🔞㊙🈲⛔
 
 
 # 计划仓库 📘
