@@ -11,13 +11,13 @@
 - 👨‍💻 Intern at Lenovo
 
 
-# 我的仓库 📚
+# My repository 📚
 
-- [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：计算机基础知识笔记
-- [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：使用C++11实现的STL数据结构
-- [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：WebServer中加入协程库
-- [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：github主页，如你所见
-- [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：个人主页，尚未完善
+- [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：Basic Computer Knowledge Notes
+- [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：STL data structures implemented using C++11
+- [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：Add coroutine library to WebServer
+- [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：GitHub homepage, as you can see
+- [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：Personal homepage, not yet complete
 - [Secrets]() 🔞㊙🈲⛔
 
 
