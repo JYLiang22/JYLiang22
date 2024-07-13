@@ -4,10 +4,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 
-# 关于我 🔍
+# About me 🔍
 
 - 🏗🤝💻 CE&CS
-- 📫 联系我 [JYLiang22](liangjyno1@gmail.com)
+- 📫 Contact me [JYLiang22](liangjyno1@gmail.com)
+- 👨‍💻 Intern at Lenovo
 
 
 # 我的仓库 📚
