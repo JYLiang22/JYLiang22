@@ -7,7 +7,7 @@
 # About me 🔍
 
 - 🏗🤝💻 CE&CS
-- 📫 Contact me [JYLiang22](liangjyno1@gmail.com)
+- 📫 Contact me [JYLiang22](jyliang22@qq.com)
 - 👨‍💻 Intern at Lenovo
 
 
