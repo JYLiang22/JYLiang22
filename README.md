@@ -13,11 +13,11 @@
 
 # My repository 📚
 
-- [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：Basic Computer Knowledge Notes
-- [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：STL data structures implemented using C++11
-- [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：Add coroutine library to WebServer
-- [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：GitHub homepage, as you can see
-- [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：Personal homepage, not yet complete
+- [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：Basic Computer Knowledge Notes.
+- [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：STL data structures implemented using C++11.
+- [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：Add coroutine library to WebServer.
+- [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：GitHub homepage, as you can see.
+- [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：Personal homepage, not yet complete.
 - [Secrets]() 🔞㊙🈲⛔
 
 
