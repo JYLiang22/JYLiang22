@@ -14,6 +14,7 @@
 # My repository 📚
 
 - [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：Basic Computer Knowledge Notes.
+- [algorithm](https://github.com/JYLiang22/algorithm)🔥：Algorithms and data structures.
 - [TinySTL](https://github.com/JYLiang22/TinySTL)🔥：STL data structures implemented using C++11.
 - [TinyWebServer-With-CoroLib](https://github.com/JYLiang22/TinyWebServer-With-CoroLib)🔥：Add coroutine library to WebServer.
 - [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：GitHub homepage, as you can see.
