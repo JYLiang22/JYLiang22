@@ -11,7 +11,7 @@
 - 👨‍💻 Intern at Lenovo
 
 
-# My repository 📚
+# My repositories 📚
 
 - [cs_basic](https://github.com/JYLiang22/cs_basic)🔥：Basic Computer Knowledge Notes.
 - [algorithm](https://github.com/JYLiang22/algorithm)🔥：Algorithms and data structures.
@@ -23,7 +23,7 @@
 - [Secrets]() 🔞㊙🈲⛔
 
 
-# Planning repository 🚩
+# Planning repositories 🚩
 
 - 🔜 MIT6.S081
 - 🤜 MIT6.824
