@@ -9,6 +9,7 @@
 - 🏗🤝💻 CE&CS
 - 📫 Contact me [JYLiang22](jyliang22@qq.com)
 - 👨‍💻 Intern at Lenovo
+- Struggling to find a job😣😧😨
 
 
 # My repositories 📚
