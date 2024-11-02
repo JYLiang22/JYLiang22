@@ -34,6 +34,6 @@
 - 🔜 continue ...
 
 
-# Focus On
+# Focus On 🎯
 
 - 😣 Struggling to find a job. 
