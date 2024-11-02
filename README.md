@@ -6,12 +6,12 @@
 
 # About me 🔍
 
-- 💻 A third-year postgraduate student in CS at NUAA.
+- 🎓 A third-year postgraduate student in CS at NUAA.
 - 🧐 My research direction is federated learning and knowledge distillation.
 - 📫 You can contact me via [JYLiang22](jyliang22@qq.com).
 
 
-# Internships
+# Internships 💼
 
 - 👨‍💻 Intern at [Lenovo](https://www.lenovo.com/us/en/) | Embedded Software Engineer
 
