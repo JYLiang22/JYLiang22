@@ -6,8 +6,9 @@
 
 # About me 🔍
 
-- 🏗🤝💻 CE&CS
-- 📫 Contact me [JYLiang22](jyliang22@qq.com)
+- 💻 A third-year postgraduate student in CS at NUAA.
+- 🧐 My research direction is federated learning and knowledge distillation.
+- 📫 You can contact me via [JYLiang22](jyliang22@qq.com).
 
 
 # Internships
@@ -36,4 +37,4 @@
 
 # Focus On
 
-- 😣 Struggling to find a job
+- 😣 Struggling to find a job. 
