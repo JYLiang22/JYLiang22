@@ -8,8 +8,12 @@
 
 - 🏗🤝💻 CE&CS
 - 📫 Contact me [JYLiang22](jyliang22@qq.com)
-- 👨‍💻 Intern at Lenovo
 - 😣 Struggling to find a job
+
+
+# Internships
+
+- 👨‍💻 Intern at [Lenovo](https://www.lenovo.com/us/en/) | Embedded Software Engineer
 
 
 # My repositories 📚
