@@ -8,7 +8,6 @@
 
 - 🏗🤝💻 CE&CS
 - 📫 Contact me [JYLiang22](jyliang22@qq.com)
-- 😣 Struggling to find a job
 
 
 # Internships
@@ -34,3 +33,7 @@
 - 🤜 MIT6.824
 - 🔞㊙🈲⛔ Secret
 
+
+# Focus On
+
+- 😣 Struggling to find a job
