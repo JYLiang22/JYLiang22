@@ -25,14 +25,12 @@
 - [ColoLib](https://github.com/JYLiang22/ColoLib)🔥: Coroutine library implemented in C++11.
 - [JYLiang22](https://github.com/JYLiang22/JYLiang22)🈶：GitHub homepage, as you can see.
 - [jyliang22.github.io](https://github.com/JYLiang22/jyliang22.github.io)🈚：Personal homepage, not yet complete.
-- [Secrets]() 🔞㊙🈲⛔
 
 
 # Planning repositories 🚩
 
 - 🔜 MIT6.S081
 - 🤜 MIT6.824
-- 🔞㊙🈲⛔ Secret
 
 
 # Focus On
