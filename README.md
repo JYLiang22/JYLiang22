@@ -30,7 +30,8 @@
 # Planning repositories 🚩
 
 - 🔜 MIT6.S081
-- 🤜 MIT6.824
+- 🔜 MIT6.824
+- 🔜 continue ...
 
 
 # Focus On
