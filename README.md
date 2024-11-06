@@ -3,15 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
-<div style="display: flex;">
-  <img src="image/c.svg" width="10%" />
-  <img src="image/cplusplus.svg" width="10%" />
-  <img src="image/python.svg" width="10%" />
-  <img src="image/leetcode.svg" width="10%" />
-  <img src="image/linux.svg" width="10%" />
-  <img src="image/git.svg" width="10%" />
-</div>
-
 
 # About me 🔍
 
@@ -46,3 +37,15 @@
 # Focus On 🎯
 
 - 😣 Struggling to find a job. 
+
+<br><br>
+
+<div style="display: flex;">
+  <img src="image/c.svg" width="10%" />
+  <img src="image/cplusplus.svg" width="10%" />
+  <img src="image/python.svg" width="10%" />
+  <img src="image/leetcode.svg" width="10%" />
+  <img src="image/linux.svg" width="10%" />
+  <img src="image/git.svg" width="10%" />
+  <img src="image/dot.svg" width="10%" />
+</div>
