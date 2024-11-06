@@ -38,7 +38,7 @@
 
 - 😣 Struggling to find a job. 
 
-<br><br>
+# 
 
 <div style="display: flex;">
   <img src="image/c.svg" width="10%" />
