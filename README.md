@@ -3,6 +3,21 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
+<center>
+	<img src="image/c.svg" width="10%" />
+	&emsp;
+	<img src="image/cplusplus.svg" width="10%" />
+	&emsp;
+	<img src="image/python.svg" width="10%" />
+	&emsp;
+	<img src="image/leetcode.svg" width="10%" />
+	&emsp;
+	<img src="image/linux.svg" width="10%" />
+	&emsp;
+	<img src="image/git.svg" width="10%" />
+</center>
+<br/>
+
 
 # About me 🔍
 
