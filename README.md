@@ -41,7 +41,8 @@
 - 😣 Struggling to find a job. 
 - 😵‍💫 Have a hard time completing my paper.
 
-# 
+
+# Skills 🧰
 
 <div style="display: flex;">
   <img src="image/c.svg" width="10%" />
