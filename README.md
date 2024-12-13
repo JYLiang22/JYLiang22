@@ -38,7 +38,6 @@
 
 # Focus On 🎯
 
-- 😣 Struggling to find a job. 
 - 😵‍💫 Have a hard time completing my paper.
 
 
