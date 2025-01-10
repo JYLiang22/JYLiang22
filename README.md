@@ -38,7 +38,7 @@
 
 # Focus On 🎯
 
-- 😵‍💫 Have a hard time completing my paper.
+- 😵‍💫 Have a hard time completing my graduation thesis.
 
 
 # Skills 🧰
