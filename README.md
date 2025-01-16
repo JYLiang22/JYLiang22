@@ -6,7 +6,7 @@
 
 # About me 🔍
 
-- 🎓 A third-year postgraduate student in CS at NUAA.
+- 🎓 A third-year postgraduate student in CS at GU(aka Galiton University).
 - 🧐 My research direction is [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and [knowledge distillation](https://arxiv.org/abs/1503.02531).
 - 📫 You can contact me via [JYLiang22](jyliang22@qq.com).
 
