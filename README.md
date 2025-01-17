@@ -13,7 +13,7 @@
 
 # Internships 💼
 
-- 👨‍💻 Interned at [Lenovo](https://www.lenovo.com/us/en/)<img src="image/Lenovo.jpg" width="3%" /> | Embedded Software Engineer
+- 👨‍💻 Interned at [Lenovo](https://www.lenovo.com/us/en/)<img src="image/Lenovo.jpg" width="7%" /> | Embedded Software Engineer
 
 
 # My repositories 📚
