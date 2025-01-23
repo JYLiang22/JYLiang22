@@ -25,7 +25,7 @@
 | [TinySTL](https://github.com/JYLiang22/TinySTL)🔥 | STL data structures implemented using C++11. |
 | [TinyWebServer](https://github.com/JYLiang22/TinyWebServer)🔥 | Still worth learning. |
 | [ColoLib](https://github.com/JYLiang22/ColoLib)🔥 |  Coroutine library implemented in C++11. |
-| [jyliang22.github.io](https://jyliang22.github.io/)🈶 | Personal homepage, under continuous improvement. |
+| [jyliang22.github.io](https://jyliang22.github.io/)✍️ | Personal homepage, under continuous improvement. |
 
 
 # Planning repositories 🚩
