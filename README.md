@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 
-# About me 🔍
+# About Me 🔍
 
 - 🎓 A third-year postgraduate student in CS at GU(aka Galiton University).
 - 🧐 My research direction is [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and [knowledge distillation](https://arxiv.org/abs/1503.02531).
@@ -17,7 +17,7 @@
 - <img src="image/Lenovo.jpg" width="6%" /> [Lenovo](https://www.lenovo.com/us/en/) | Embedded Software Engineer
 
 
-# My repositories 📚
+# My Repositories 📚
 
 | Repositories | About |
 | -- | -- |
@@ -28,7 +28,7 @@
 | [ColoLib](https://github.com/JYLiang22/ColoLib)🔥 |  Coroutine library implemented in C++11. |
 
 
-# Planning repositories 🚩
+# Planning Repositories 🚩
 
 - 🔜 MIT6.S081
 - 🔜 MIT6.824
