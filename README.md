@@ -1,7 +1,6 @@
 # Hello! Welcome to my homepage！ 👋
 
-The English version is shown below. If you need to read the Chinese version, please click [readme.zh-CN.md](doc/readme.zh-CN.md).<br>
-英文版本如下所示，如需阅读中文版本，请点击[readme.zh-CN.md](doc/readme.zh-CN.md)。<br>
+[English](JYLiang22/README.md)  [中文](doc/readme.zh-CN.md)<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
