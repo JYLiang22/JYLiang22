@@ -1,6 +1,6 @@
-# Hello! Welcome to my homepage！ 👋
+[English](JYLiang22/README.md) &nbsp;&nbsp; [中文](doc/readme.zh-CN.md) <br>
 
-[English](JYLiang22/README.md)  [中文](doc/readme.zh-CN.md)<br>
+# Hello! Welcome to my homepage！ 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
