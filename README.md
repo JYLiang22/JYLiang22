@@ -1,4 +1,4 @@
-[English](JYLiang22/README.md) &nbsp;&nbsp; [中文](doc/readme.zh-CN.md) <br>
+[English](./README.md) &nbsp;&nbsp; [中文](doc/readme.zh-CN.md) <br>
 
 # Hello! Welcome to my homepage！ 👋
 
