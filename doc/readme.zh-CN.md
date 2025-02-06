@@ -1,47 +1,47 @@
-# ÄúºÃ!»¶Ó­·ÃÎÊÎÒµÄÖ÷Ò³£¡ ”9Ð9
+# æ‚¨å¥½!æ¬¢è¿Žè®¿é—®æˆ‘çš„ä¸»é¡µï¼  ðŸ‘‹
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 
-# ¹ØÓÚÎÒ ”9ä3
+# å…³äºŽæˆ‘  ðŸ”
 
-- ”9¾5 ¼ÒÀï¶×´óÑ§ÑÐÈý¼ÆËã»úÔÚ¶Á
-- •0à2 ÑÐ¾¿·½ÏòÎª[Áª°îÑ§Ï°](https://en.wikipedia.org/wiki/Federated_learning)ºÍ[ÖªÊ¶ÕôÁó](https://arxiv.org/abs/1503.02531)
-- ”9å3 [¸öÈËÍøÒ³](https://jyliang22.github.io/)
-- ”9à9 [ÓÊÏä](jyliang22@qq.com)
-
-
-# ÊµÏ°¾­Àú ”9Ü2
-
-- <img src="../image/Lenovo.jpg" width="6%" /> [ÁªÏë](https://www.lenovo.com/us/en/) | Ç¶ÈëÊ½Èí¼þ¹¤³ÌÊ¦
+- ðŸŽ“ å®¶é‡Œè¹²å¤§å­¦ç ”ä¸‰è®¡ç®—æœºåœ¨è¯»
+- ðŸ§ ç ”ç©¶æ–¹å‘ä¸º[è”é‚¦å­¦ä¹ ](https://en.wikipedia.org/wiki/Federated_learning)å’Œ[çŸ¥è¯†è’¸é¦](https://arxiv.org/abs/1503.02531)
+- ðŸ”— [ä¸ªäººç½‘é¡µ](https://jyliang22.github.io/)
+- ðŸ“« [é‚®ç®±](jyliang22@qq.com)
 
 
-# ¸öÈË²Ö¿â ”9ß2
+# å®žä¹ ç»åŽ† ðŸ’¼
 
-| Ãû³Æ | ½éÉÜ |
+- <img src="../image/Lenovo.jpg" width="6%" /> [è”æƒ³](https://www.lenovo.com/us/en/) | åµŒå…¥å¼è½¯ä»¶å·¥ç¨‹å¸ˆ
+
+
+# ä¸ªäººä»“åº“ ðŸ“š
+
+| åç§° | ä»‹ç» |
 | -- | -- |
-| [cs_basic](https://github.com/JYLiang22/cs_basic)”9æ7 | ¼ÆËã»ú»ù´¡ÖªÊ¶±Ê¼Ç |
-| [algorithm](https://github.com/JYLiang22/algorithm)”9æ7 | Ëã·¨ºÍÊý¾Ý½á¹¹ |
-| [TinySTL](https://github.com/JYLiang22/TinySTL)”9æ7 | Ê¹ÓÃC++11ÊµÏÖµÄSTLÊý¾Ý½á¹¹ |
-| [TinyWebServer](https://github.com/JYLiang22/TinyWebServer)”9æ7 | ÀÃ´ó½Öµ«ÈÔÖµµÃÑ§Ï°·þÎñÆ÷ÏîÄ¿ |
-| [ColoLib](https://github.com/JYLiang22/ColoLib)”9æ7 |  Ê¹ÓÃC++11ÊµÏÖµÄÐ­³Ì¿â |
-| [Tools](https://github.com/JYLiang22/Tools)”9æ7 | ¸öÈËÐ¡¹¤¾ß |
+| [cs_basic](https://github.com/JYLiang22/cs_basic)ðŸ”¥ | è®¡ç®—æœºåŸºç¡€çŸ¥è¯†ç¬”è®° |
+| [algorithm](https://github.com/JYLiang22/algorithm)ðŸ”¥ | ç®—æ³•å’Œæ•°æ®ç»“æž„ |
+| [TinySTL](https://github.com/JYLiang22/TinySTL)ðŸ”¥ | ä½¿ç”¨C++11å®žçŽ°çš„STLæ•°æ®ç»“æž„ |
+| [TinyWebServer](https://github.com/JYLiang22/TinyWebServer)ðŸ”¥ | çƒ‚å¤§è¡—ä½†ä»å€¼å¾—å­¦ä¹ æœåŠ¡å™¨é¡¹ç›® |
+| [ColoLib](https://github.com/JYLiang22/ColoLib)ðŸ”¥ |  ä½¿ç”¨C++11å®žçŽ°çš„åç¨‹åº“ |
+| [Tools](https://github.com/JYLiang22/Tools)ðŸ”¥ | ä¸ªäººå°å·¥å…· |
 
 
-# ¼Æ»®²Ö¿â •05
+# è®¡åˆ’ä»“åº“ ðŸš©
 
-- ”9å8 MIT6.S081
-- ”9å8 MIT6.824
-- ”9å8 ...
-
-
-# ×¨×¢ÓÚ ”9Á3
-
-- •0ƒ96¤9”9Ú5 Ð´±ÏÒµÂÛÎÄ£¬Å¬Á¦±ÏÒµ£¡
+- ðŸ”œ MIT6.S081
+- ðŸ”œ MIT6.824
+- ðŸ”œ ...
 
 
-# ¼¼ÄÜ •0ã4
+# ä¸“æ³¨äºŽ ðŸŽ¯
+
+- ðŸ˜µâ€ðŸ’« å†™æ¯•ä¸šè®ºæ–‡ï¼ŒåŠªåŠ›æ¯•ä¸šï¼
+
+
+# æŠ€èƒ½ ðŸ§°
 
 <div style="display: flex;">
   <img src="../image/c.svg" width="10%" />
