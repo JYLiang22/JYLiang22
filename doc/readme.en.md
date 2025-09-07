@@ -8,7 +8,6 @@
 
 - 🎓 A third-year postgraduate student in CS at GU(aka Galiton University).
 - 🧐 My research direction is [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and [knowledge distillation](https://arxiv.org/abs/1503.02531).
-- 🔗 My personal webpage is [jyliang22.github.io](https://jyliang22.github.io/).
 - 📫 You can contact me via [JYLiang22](jyliang22@qq.com).
 
 
@@ -19,14 +18,7 @@
 
 # My Repositories 📚
 
-| Repositories | About |
-| -- | -- |
-| [cs_basic](https://github.com/JYLiang22/cs_basic)🔥 | Basic Computer Knowledge Notes. |
-| [algorithm](https://github.com/JYLiang22/algorithm)🔥 | Algorithms and data structures. |
-| [TinySTL](https://github.com/JYLiang22/TinySTL)🔥 | STL data structures implemented using C++11. |
-| [TinyWebServer](https://github.com/JYLiang22/TinyWebServer)🔥 | Still worth learning. |
-| [ColoLib](https://github.com/JYLiang22/ColoLib)🔥 |  Coroutine library implemented in C++11. |
-| [Tools](https://github.com/JYLiang22/Tools)🔥 | Gadgets made by myself that can improve work efficiency. |
+All private!??
 
 
 # Planning Repositories 🚩
