@@ -1,39 +1,37 @@
-# Hello! Welcome to my homepage！ 👋
+# Hello! Welcome to my homepage锛� 馃憢
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
 
 
-# About Me 🔍
+# About Me 馃攳
 
-- 🎓 A third-year postgraduate student in CS at GU(aka Galiton University).
-- 🧐 My research direction is [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and [knowledge distillation](https://arxiv.org/abs/1503.02531).
-- 📫 You can contact me via [JYLiang22](jyliang22@qq.com).
+- 馃帗 A third-year postgraduate student in CS at GU(aka Galiton University).
+- 馃 My research direction is [federated learning](https://en.wikipedia.org/wiki/Federated_learning) and [knowledge distillation](https://arxiv.org/abs/1503.02531).
+- 馃摣 You can contact me via [JYLiang22](jyliang22@qq.com).
 
 
-# Internships 💼
+# Internships 馃捈
 
 - <img src="../image/Lenovo.jpg" width="6%" /> [Lenovo](https://www.lenovo.com/us/en/) | Embedded Software Engineer
 
 
-# My Repositories 📚
+# My Repositories 馃摎
 
-All private!??
-
-
-# Planning Repositories 🚩
-
-- 🔜 MIT6.S081
-- 🔜 MIT6.824
-- 🔜 continue ...
+All private!銑欙笍
 
 
-# Focus On 🎯
+# Planning Repositories 馃毄
 
-- 😵‍💫 Have a hard time completing my graduation thesis.
+- 馃敎 to be continued ...
 
 
-# Skills 🧰
+# Focus On 馃幆
+
+- 馃樀鈥嶐煉� Have a hard time completing my graduation thesis.
+
+
+# Skills 馃О
 
 <div style="display: flex;">
   <img src="../image/c.svg" width="10%" />
