@@ -1,9 +1,5 @@
 # 您好!欢迎访问我的主页！  👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYLiang22&count_private=true&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JYLiang22&layout=compact&theme=rose)](https://github.com/JYLiang22/github-readme-stats)
-
-
 # 关于我  🔍
 
 - 🎓 家里蹲大学研三计算机在读
